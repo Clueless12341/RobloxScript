@@ -1,6 +1,3 @@
-User
-improved this code
-
 local replicatedStorage = game:GetService("ReplicatedStorage")
 local ConfigModule = replicatedStorage:WaitForChild("Configuration").Paste
 local Config = require(ConfigModule)
