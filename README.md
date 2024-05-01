@@ -1,2 +1,1 @@
-# RobloxScript
-[+] Tower Of Hell
+Roblox script
